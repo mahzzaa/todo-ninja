@@ -6,6 +6,7 @@ import team from '../views/team.vue'
 
 Vue.use(VueRouter)
 
+
   const routes = [
   {
     path: '/',
