@@ -53,7 +53,7 @@ export default {
                 const project = {
                     title: this.title,
                     content: this.content,
-                    due: this.due,
+                    due: this.date,
                     person:'The Net Ninja',
                     status: 'ongoing'
                 }
