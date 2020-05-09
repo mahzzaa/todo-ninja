@@ -47,7 +47,7 @@
               <v-chip small :class="`${project.status} caption my-2  white--text`">{{project.status}}</v-chip>
             </div>
           </v-chip>
-          <v-btn class="mx-2" fab dark small color="primary">
+          <v-btn class="mx-3 my-0" right fab dark small color="light-green lighten-1">
             <v-icon dark>clear</v-icon>
           </v-btn>
         </v-layout>
